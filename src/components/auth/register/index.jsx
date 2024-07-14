@@ -25,7 +25,6 @@ const Register = () => {
             console.log(error)
             setIsRegistering(false)
             setErrorMessage('Error Try again')
-            alert(error)
 
         }
         }
